@@ -4,7 +4,7 @@ Source code for a Movie Trailer website.
 # Introduction
 This program consists of three files which create a local html file displaying a set of movies along with a set of descriptive information.
 
-##Files Included:
+## Files Included:
 * fresh_tomatoes.py: takes in a list of movie objects and displays them as an html files
 * media.py: Creates the class Movie with the methods
  * "title": Title of the class Movie instance
